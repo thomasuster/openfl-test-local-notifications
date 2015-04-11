@@ -7,6 +7,7 @@
 	<source path="Source" />
 	
 	<haxelib name="openfl" />
+	<android minimum-sdk-version="15" target-sdk-version="15"/>
 	
 	<assets path="Assets" rename="assets" exclude="*.svg" />
 	<icon path="Assets/openfl.svg" />
